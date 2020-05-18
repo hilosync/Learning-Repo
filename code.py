@@ -1,7 +1,3 @@
-name = input('hello')
-print("Hello,", name)
-
-
 class Account:
 
     def __init__(self, owner, balance):
